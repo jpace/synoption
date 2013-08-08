@@ -1,4 +1,12 @@
-synoption
-=========
+synoption(1) - SynOption library
+================================
 
-Another option processing library for Ruby applications.
+## SYNOPSIS
+
+## DESCRIPTION
+
+## AUTHOR
+
+Jeff Pace (jeugenepace at gmail dot com)
+
+http://www.github.com/jpace/synoption
