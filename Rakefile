@@ -28,6 +28,7 @@ spec = Gem::Specification.new do |s|
   s.require_path       = "lib"
   s.test_files         = FileList["{test}/**/*test.rb"].to_a
   s.has_rdoc           = false
+  s.license            = 'MIT'
 
   s.add_dependency("logue", ">= 1.0.0")
 end
